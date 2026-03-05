@@ -1,4 +1,4 @@
-# Knowledge Management UI (KM-UI)
+# Knowledge Management UI 
 
 A modern React-based web application for managing documents, processing knowledge bases, and enabling AI-powered chat interactions. Built with Vite for fast development and production builds.
 
